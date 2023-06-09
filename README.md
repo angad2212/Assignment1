@@ -1,2 +1,2 @@
-# Assignment 1
+# Assignment Question 1 of Thapar Summer Course
 Basic Python Questions
